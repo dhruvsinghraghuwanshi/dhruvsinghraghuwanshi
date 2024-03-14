@@ -3,6 +3,13 @@
 
 - 🔭 I’m currently working on [Ujjain.store](https://ujjain.store)
 
+- 🧑‍💻 Made an [E-Commerce Website](https://avishworld.com)
+- 🧑‍💻 Made a [Certificate-managment-system](https://Certificate.shailkumaricommercialinstitute.com)(Sold)
+- 🧑‍💻 Made a [Bloggin & Social media](https://Mensdaily.in) (sold)
+- 🧑‍💻 Made a [Razorpay's clone](https://mendaily.in)
+- - 🧑‍💻 Made a [School Website](dhruv.mendaily.in/astro1)
+
+
 - 🌱 I’m currently learning **Nodejs and React**
 
 - 📝 I regularly write articles on [Mendaily.in](Mendaily.in)
