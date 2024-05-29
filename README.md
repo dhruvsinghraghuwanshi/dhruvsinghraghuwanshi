@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **PHP Wordpress**
 
-- 📫 How to reach me **Dhruv@mendaily.in**
+- 📫 How to reach me **Dhruv@ujjain.store**
 
 - ⚡ Fun fact **i am 9 month old :me(17 years 5 months ago)**
 
